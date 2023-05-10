@@ -11,4 +11,4 @@ function factorial(n) {
 
 let result = factorial(BigInt(n))
 
-console.log("fact of "+n+" is " + result)
+console.log(n+"!"+" = "+ result)
